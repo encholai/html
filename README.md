@@ -49,3 +49,19 @@ Head里面去加风格属性
 需要在stlye 输入 .+命名+{} 
 {} 里面输入属性，例如颜色，背景色，对齐（float），大小
 ￼
+
+【样式表】
+link 链接
+type=“text”/css 找到你要链接的东西是css属性的
+rel=“stylesheet” 固定样式表需要插入的
+
+
+container 方块元素
+header 头部文件
+content 内容主体
+con-left 左边内容
+从 right 右边内容
+
+要开始写程序的时候就写：
+script 程序
+type=“”属性
