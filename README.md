@@ -56,12 +56,12 @@ type=“text”/css 找到你要链接的东西是css属性的
 rel=“stylesheet” 固定样式表需要插入的
 
 
-container 方块元素
-header 头部文件
-content 内容主体
-con-left 左边内容
-从 right 右边内容
+<br/>container 方块元素
+<br/>header 头部文件
+<br/>content 内容主体
+<br/>con-left 左边内容
+<br/>从 right 右边内容
 
-要开始写程序的时候就写：
-script 程序
-type=“”属性
+<br/>要开始写程序的时候就写：
+<br/>script 程序
+<br/>type=“”属性
