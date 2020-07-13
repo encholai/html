@@ -51,9 +51,9 @@ Head里面去加风格属性
 ￼
 
 【样式表】
-link 链接
-type=“text”/css 找到你要链接的东西是css属性的
-rel=“stylesheet” 固定样式表需要插入的
+<br/>link 链接
+<br/>type=“text”/css 找到你要链接的东西是css属性的
+<br/>rel=“stylesheet” 固定样式表需要插入的
 
 
 <br/>container 方块元素
